@@ -140,5 +140,8 @@
     .footer-bottom-right p {
       margin: 0;
     }
+    .footer-email-input {
+      width: 50%;
+    }
   }
   

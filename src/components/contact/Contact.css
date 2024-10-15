@@ -156,4 +156,11 @@
   .contact-right {
     width: 100%;
   }
+  .contact-right input {
+    width: 430px;
+  }
+  .contact-right textarea {
+    width: 400px;
+  }
 }
+

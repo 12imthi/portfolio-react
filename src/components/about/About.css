@@ -93,3 +93,9 @@ margin: 70px 160px;
     transform: scale(1.15);
     transition: 0.5s;
 }
+
+@media (max-width:768px) {
+    .about-sections {
+        flex-direction: column;
+    }
+}

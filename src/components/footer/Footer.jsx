@@ -10,7 +10,7 @@ function Footer() {
       <div className="footer-top">
         <div className="footer-top-left">
             <img src={footerLogo} alt="" style={{width: '120px'}} />
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellendus ad quibusdam, laboriosam nobis autem similique id dolores vitae in modi tempora, quaerat voluptate distinctio enim impedit repellat. Culpa, suscipit quos.</p>
+            <p>Lorem ipsum, dolor sit amet.</p>
         </div>
         <div className="footer-top-right">
             <div className="footer-email-input">
