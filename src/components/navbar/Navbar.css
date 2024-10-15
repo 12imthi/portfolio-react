@@ -1,0 +1,29 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px 170px;
+
+}
+.nav-menu {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 30px;
+    font-size: 22px;
+}
+.nav-connect {
+    padding: 20px 40px ;
+    border-radius: 50px;
+    background: linear-gradient(267deg, orange,blue);
+    font-size: 15px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.nav-connect:hover {
+    transform: scale(1.05);
+}
+.anchor-link {
+    color: white;
+    text-decoration: none;
+}
