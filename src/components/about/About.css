@@ -98,4 +98,23 @@ margin: 70px 160px;
     .about-sections {
         flex-direction: column;
     }
+    .about-achievement h1 {
+
+        font-size: 24px;
+    }
+    .about-achievements {
+        flex-direction: column;
+    }
+}
+
+@media (max-width:510px) {
+    .about-skills {
+        gap: 10px;
+    }
+    .about-skill {
+        gap: 10px;
+    }
+    /* .my-profile  {
+width:  120px;
+    } */
 }

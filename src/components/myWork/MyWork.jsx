@@ -28,7 +28,7 @@ function MyWork() {
               target={work.w_link && work.w_link.startsWith("http") ? "_blank" : "_self"}
               rel={work.w_link && work.w_link.startsWith("http") ? "noopener noreferrer" : ""}
             >
-              <img src={work.w_img} alt={work.w_name}  />
+              <img src={work.w_img} alt={work.w_name} className='projectImage'  />
             </a>
           );
         })}
