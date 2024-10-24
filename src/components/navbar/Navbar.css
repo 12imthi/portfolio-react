@@ -38,9 +38,9 @@
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
-.navbar-logo:hover {
-    transform: scale(1.1); /* Slight zoom-in effect on hover */
-    box-shadow: 0 4px 8px white; /* Add a subtle shadow on hover */
+.navbar-logo {
+    transform: scale(1); /* Slight zoom-in effect on hover */
+    box-shadow: 0 5px 10px white; /* Add a subtle shadow on hover */
     border-radius: 10px; /* Optional: round the edges a little */
 }
 

@@ -10,7 +10,7 @@ function MyWork() {
 
   // Function to handle the "Show More" button click
   const showMoreProjects = () => {
-    setVisibleProjects((prev) => prev + 3); // Show 3 more projects each time
+    setVisibleProjects((prev) => prev + 2); // Show 3 more projects each time
   };
 
   return (
