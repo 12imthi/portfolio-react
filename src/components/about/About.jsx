@@ -17,12 +17,14 @@ const About = () => {
         <div className="about-right">
           <div className="about-para">
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Distinctio, nobis.
+            Craft seamless user experiences with responsive and mobile-first designs.
             </p>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Distinctio, nobis.
+            Implement modern web standards and ensure cross-browser compatibility.
+            </p>
+            <p>
+         
+Collaborate with designers and backend developers to bring creative visions to life.
             </p>
           </div>
           <div className="about-skills">
@@ -41,7 +43,7 @@ const About = () => {
           </div>
         </div>
       </div>
-      <div className="about-achievements">
+      {/* <div className="about-achievements">
         <div className="about-achievement">
             <h1>1+</h1>
             <p>YEARS OF EXPERIENCE</p>
@@ -56,7 +58,7 @@ const About = () => {
             <h1>80+</h1>
             <p>PROJECTS COMPLETED</p>
         </div>
-      </div>
+      </div> */}
     </div>
   );
 };
